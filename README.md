@@ -1,4 +1,4 @@
-# Narcio's ultimate wisdom for Android pimpin' 'n' strippin'
+# Narcio's ultimate wisdom for Android pimpin n strippin
 and other FOSS / Mod extravaganza. Compiled by a complete idiot.
 
 ## Why are you doing this, Narcio?
@@ -42,6 +42,7 @@ Placeholder
 
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) to read Manga and Comics
 - [AnimePipe](https://github.com/InfinityLoop1309/AnimePipe) as an improved version of NewPipe
+- [Pix-Ez (Flutter)](https://github.com/Notsfsssf/pixez-flutter) as a Pixiv wrapper
 - [Seeker](https://github.com/jackBonadies/SeekerAndroid) to access the Soulseek network
 - [Seal](https://github.com/JunkFood02/Seal) to download video and audio from YouTube
 - [KurobaEX](https://github.com/K1rakishou/Kuroba-Experimental) to access imageboards
@@ -65,7 +66,6 @@ Try these if they tingle your dingle
 - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) for a nice, but still highly unstable, office suite
 - [ReVanced Manager](https://github.com/revanced/revanced-manager) for an easy, but still highly unstable, patcher for YouTube, TikTok, Twitter etc. (You need to install the official version of each app from AuroraStore and then patch it)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) for a FOSS music streaming experience relying on JioSaavn (You may need to tweak a few things to use it, or use an indian VPN service)
-- [Pix-EzViewer (Flutter)](https://github.com/Notsfsssf/pixez-flutter) for an unstable Pixiv wrapper
 - [Music (the app with the highly original name)](https://github.com/z-huang/music) for a nice, but unstable, YouTube Music alternative
 - ♻ [ZuckApp](https://github.com/fym35/ZuckApp) for a FOSS recreation of WhatsApp (Still in development, no Apk or source available yet)
 
