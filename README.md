@@ -48,13 +48,14 @@ Placeholder
 - [KurobaEX](https://github.com/K1rakishou/Kuroba-Experimental) to access imageboards
 - [Loli Snatcher](https://github.com/NO-ob/LoliSnatcher_Droid) to access boorus
 - [xManager](https://xmanagerapp.com/) to manage a de-bloated version of Spotify
+- [CloudStream](https://github.com/recloudstream/cloudstream) to watch movies, anime and tv series
 
 ## Chapter Five: VARIOUS
 
 - [Mullvad VPN](https://mullvad.net) (paid)  ALL FREE VPNs ARE A MEME. USE A REAL ONE FOR FUCK'S SAKE
 - [Bitwarden](https://bitwarden.com/) to manage passwords
 - [Element Secure Messenger](https://element.io/) or [Fluffychat](https://fluffychat.im/) to access the Matrix network
-- [Molly](https://molly.im/) to use Signal Mesenger safely
+- [Molly](https://molly.im/) to use Signal Messenger safely
 - [Extirpater](https://github.com/Divested-Mobile/Extirpater) to nuke your phone before selling it
 - [Insular](https://secure-system.gitlab.io/Insular/) if you need to isolate apps from your main device storage
 - [InviZible Pro](https://invizible.net/en/) to access Tor, DNScrypt and I2P
