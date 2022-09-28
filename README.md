@@ -54,6 +54,7 @@ Placeholder
 - [Mullvad VPN](https://mullvad.net) (paid)  ALL FREE VPNs ARE A MEME. USE A REAL ONE FOR FUCK'S SAKE
 - [Bitwarden](https://bitwarden.com/) to manage passwords
 - [Element Secure Messenger](https://element.io/) or [Fluffychat](https://fluffychat.im/) to access the Matrix network
+- [Molly](https://molly.im/) to use Signal Mesenger safely
 - [Extirpater](https://github.com/Divested-Mobile/Extirpater) to nuke your phone before selling it
 - [Insular](https://secure-system.gitlab.io/Insular/) if you need to isolate apps from your main device storage
 - [InviZible Pro](https://invizible.net/en/) to access Tor, DNScrypt and I2P
@@ -66,7 +67,7 @@ Try these if they tingle your dingle
 - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) for a nice, but still highly unstable, office suite
 - [ReVanced Manager](https://github.com/revanced/revanced-manager) for an easy, but still highly unstable, patcher for YouTube, TikTok, Twitter etc. (You need to install the official version of each app from AuroraStore and then patch it)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) for a FOSS music streaming experience relying on JioSaavn (You may need to tweak a few things to use it, or use an indian VPN service)
-- [Music (the app with the highly original name)](https://github.com/z-huang/music) for a nice, but unstable, YouTube Music alternative
+- [Music (the app with the very original name)](https://github.com/z-huang/music) for a nice, but unstable, YouTube Music alternative
 - ♻ [ZuckApp](https://github.com/fym35/ZuckApp) for a FOSS recreation of WhatsApp (Still in development, no Apk or source available yet)
 
 ## Chapter 0: THE PIT OF CASUALTIES
