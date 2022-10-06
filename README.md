@@ -72,7 +72,7 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 - [NCalcLibre](https://github.com/basile-laderchi/ncalc) as a powerful calculator
 - [Feeel](https://github.com/EnjoyingFOSS/feeel) as a workout companion
 - [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) to freeze applications
-- [UntrackMe](https://framagit.org/tom79/nitterizeme) to transform every link to a privacy-friendly fornt-end and remove tracking elements from URLs
+- [UntrackMe](https://framagit.org/tom79/nitterizeme) to transform every link to a privacy-friendly front-end and remove tracking elements from URLs
 
 ## Chapter Six: THE BETS (Maybe unstable)
 Try these if they tingle your dingle
