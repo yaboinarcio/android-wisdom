@@ -54,7 +54,7 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 - [xManager](https://xmanagerapp.com/) to manage a de-bloated version of Spotify
 - [CloudStream](https://github.com/recloudstream/cloudstream) to watch movies, anime and tv series
 - [Box, Box!](https://github.com/BrightDV/BoxBox) for Formula1 lovers
-- [Cythara](https://f-droid.org/packages/com.github.cythara/) to tune your stinged instrument
+- [Cythara](https://f-droid.org/packages/com.github.cythara/) to tune your stringed musical instruments
 
 ## Chapter Five: VARIOUS
 
