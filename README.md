@@ -75,6 +75,8 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme) to transform every link to a privacy-friendly front-end and remove tracking elements from URLs
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider) to hide apps and folders with an easy to use toggle
 - [Crypto Prices](https://gitlab.com/cl0n30/cryptoprices) to keep track of cryptocurrency prices
+- [Matsuri](https://github.com/MatsuriDayo/Matsuri) for a handy proxy toolchanin
+- [Termux](https://termux.dev/en/) for the best android terminal emulator
 
 ## Chapter Six: THE BETS (Maybe unstable)
 Try these if they tingle your dingle
