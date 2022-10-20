@@ -20,7 +20,7 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 - Drop Feeder and use [Read You](https://github.com/Ashinch/ReadYou)
 - Drop your book reader of choice and use [Librera](https://librera.mobi/)
 - Drop Mastodon and use [Husky](https://git.sr.ht/~captainepoch/husky)
-- Drop your web browser of choice and use [Bromite](https://www.bromite.org/) or [Mull](https://github.com/Divested-Mobile/Mull-Fenix) 
+- Drop your web browser of choice and use [Mull](https://github.com/Divested-Mobile/Mull-Fenix) or [Mulch](https://gitlab.com/divested-mobile/mulch)
 - Drop your torrent client of choice and use [Libre Torrent](https://github.com/proninyaroslav/libretorrent)
 - Drop Twitch and use [Xtra](https://github.com/AndreyAsadchy/Xtra) or [OrangeTV](https://gitlab.com/twitchmod/orange-tv)
 - Drop Evernote and use [Notesnook](https://notesnook.com/downloads/)
@@ -33,7 +33,7 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 ## Chapter Two: LANGUAGE SECTION
 
 - 🌐 [AnkiDroid](https://github.com/ankidroid/Anki-Android) to manage flashcards
-- 🇯🇵 [jidoujisho](https://github.com/lrorpilla/jidoujisho) to manage dictionaries (Yomichan format) and video subtitles or 🇯🇵 [takoboto](https://takoboto.jp/apps/) for a straightforward japanese dictionary
+- 🇯🇵 [jidoujisho](https://github.com/lrorpilla/jidoujisho) to manage dictionaries (Yomichan format) and video subtitles or 🇯🇵 [fujiten](https://github.com/odrevet/fujiten) for a straightforward japanese dictionary
 - 🇯🇵 [Kaku](https://kaku.fuwafuwa.ca/) for an overlay japanese visual aid
 - 🇯🇵 [Kakugo](https://github.com/blastrock/kakugo) for memorizing japanese characters (hiragana and katakana sillabary, kanji)
 - 🇹🇼 [Pleco](https://pleco.com/getandroid) for a straightforward mandarin / cantonese dictionary
@@ -73,6 +73,8 @@ If you feel like adding new entries to this list write to email-placeholder. If 
 - [Feeel](https://github.com/EnjoyingFOSS/feeel) as a workout companion
 - [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) to freeze applications
 - [UntrackMe](https://framagit.org/tom79/nitterizeme) to transform every link to a privacy-friendly front-end and remove tracking elements from URLs
+- [Amarok](https://github.com/deltazefiro/Amarok-Hider) to hide apps and folders with an easy to use toggle
+. [Crypto Prices](https://gitlab.com/cl0n30/cryptoprices) to keep track of cryptocurrency prices
 
 ## Chapter Six: THE BETS (Maybe unstable)
 Try these if they tingle your dingle
@@ -80,7 +82,7 @@ Try these if they tingle your dingle
 - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) for a nice, but still highly unstable, office suite
 - [ReVanced Manager](https://github.com/revanced/revanced-manager) for an easy, but still highly unstable, patcher for YouTube, TikTok, Twitter etc. (You need to install the official version of each app from AuroraStore and then patch it)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) for a FOSS music streaming experience relying on JioSaavn (You may need to tweak a few things to use it, or use an indian VPN service)
-- [Music (will change name soon)](https://github.com/z-huang/music) for a nice, but unstable, YouTube Music alternative
+- [InnterTune](https://github.com/z-huang/music) for a nice, but unstable, YouTube Music alternative
 - [Smart Edge](https://github.com/abh80/smart-edge) for an unstable but super cool dynamic island that makes applefags maaaaaaaaaad
 - ♻ [ZuckApp](https://github.com/fym35/ZuckApp) for a FOSS recreation of WhatsApp (Still in development, no Apk or source available yet)
 
